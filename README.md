@@ -1,2 +1,3 @@
-## NARIDECAT (Public-Github)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=naridecat)](https://solved.ac/naridecat)
+<h2><strong>DEVANARUEE:3&#9829;</strong></h2>
+<p>working at <a href="https://fluffy.company">FLUFFY.COMPANY (Head Developer)</a> / <a href="https://furpic.net/about">FURPIC Team (UI/UX)</a></p>
+<p>if you want to see my projects, join <a href="https://naridecat.github.com">My Portfolio Page</a> in a heartbeat</p>
