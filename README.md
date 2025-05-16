@@ -1,2 +1,1 @@
-<h2><strong>Le chat de NARI:3&#9829;</strong></h2>
-<p>working at <a href="https://fluffy.company">FLUFFY.COMPANY (Head Developer)</a> / <a href="https://furpic.net/about">FURPIC Team (UI/UX)</a></p>
+<h1>저 배고파요 밥좀 주실래요?</h1>
