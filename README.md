@@ -2,6 +2,7 @@
 {
   "nickname": "soboro cat",
   "age": 20,
+  "email": "root@ai.ai.kr",
   
   "experiences": [
     {
