@@ -14,7 +14,7 @@
     {
       "name": "TEAM QBIT",
       "job": "Machobot Head Developer",
-      "period": "2022 - 2024"
+      "period": "2022 - present"
     },
 
     {
@@ -26,6 +26,12 @@
     {
       "name": "Hannam University",
       "job": "Bachelor's degree",
+      "period": "2025 - present"
+    },
+
+    {
+      "name": "Fluffy Company",
+      "job": "Product Management and leader",
       "period": "2025 - present"
     }
   ]
